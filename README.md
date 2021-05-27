@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to play the pipe organ!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: kghuang "at" umich.edu
-- 🌐 https://www-personal.umich.edu/~kghuang/
+- 🌐 http://www-personal.umich.edu/~kghuang/
 
 <!---
 kghuang/kghuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
